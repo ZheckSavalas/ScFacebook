@@ -12,6 +12,8 @@ echo
 python2 svls.py
 echo
 clear
+# yang merecode Anak Haram Moga-moga Tangan lu Korengan
+# recode recode tai anjing modal dong
 # [SUBSCRIBE] Zacky Saksakame
 figlet -f standard FB Tools | lolcat
 echo
