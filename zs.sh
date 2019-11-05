@@ -11,6 +11,7 @@ echo
 echo
 python2 svls.py
 echo
+clear
 # [SUBSCRIBE] Zacky Saksakame
 figlet -f standard FB Tools | lolcat
 echo
