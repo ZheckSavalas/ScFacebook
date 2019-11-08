@@ -24,4 +24,4 @@ Note* Yng record anak haram moga moga tangan lu Korengan
 Amin
 
 My Github
-https://github.com/ZheckSavalas/ScFacebook
+https://github.com/ZheckSavalas/
