@@ -1,4 +1,6 @@
 # ScFacebook
+Sebelum Menggunakan Tools/Script ini Mohon Apk Terminal Anda Sudah ter Izin Penyimpanan Jika Belum 
+Ketikan => termux-setup-storage
 
 pkg install update && install upgrade
 
