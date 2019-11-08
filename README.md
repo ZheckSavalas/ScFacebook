@@ -1,12 +1,12 @@
 # ScFacebook
 
-apt install update
+pkg install update && install upgrade
 
-apt install upgrade
+pkg install pyhton2
 
-apt install pyhton2
+pkg install ruby
 
-pkg install lolcat
+gem install lolcat
 
 pkg install figlet
 
@@ -20,3 +20,6 @@ sh zs.sh
 
 Note* Yng record anak haram moga moga tangan lu Korengan
 Amin
+
+My Github
+https://github.com/ZheckSavalas/ScFacebook
